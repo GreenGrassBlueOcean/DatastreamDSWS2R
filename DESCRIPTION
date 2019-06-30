@@ -18,7 +18,8 @@ Imports:
     xts,
     zoo,
     methods,
-    foreach
+    foreach,
+    dplyr
 Suggests: testthat
 Roxygen: list(wrap = FALSE)
 RoxygenNote: 6.1.1

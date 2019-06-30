@@ -427,7 +427,6 @@ staticRequestSet <- function(mydsws = dsws$new(),
 #' @importFrom dplyr bind_cols
 #'
 #' @export
-#'
 staticListRequestSet <- function(mydsws = dsws$new(),
                                  instrument,
                                  expression = "",
